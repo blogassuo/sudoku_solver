@@ -13,4 +13,4 @@ I wrote this solver just for practice of ideas of Constrain Propagation and Dept
 - `utilities.py` -- utilities file for solver.
 
 ## Run
-><center>`python solver.py`</center>
+> `$ python solver.py`
